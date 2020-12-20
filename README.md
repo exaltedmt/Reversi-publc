@@ -1,12 +1,3 @@
-Reversi README.md
-Christina Jeong 
-cj89164@uga.edu
-811406
-
-Royce Harley
-rnh76959@uga.edu
-811778401
-
 March 4, 2016
 
 To run the game, type in this format 
@@ -24,7 +15,7 @@ INSTRUCTIONS:
 
 1.) Instead of using two colored disks, this game will make use of X and O. Player 1 will be assigned to X and Player 2 will be assigned to O. 
 2.) Player 1 will go first and will type in coordinates (horizontal first then vertical)
-3.) The game will repeat with the opponent making it’s move and going back to Player 1.
+3.) The game will repeat with the opponent making itâ€™s move and going back to Player 1.
 4.) The game will end when the board is filled or no moves can be made.
 
 INTELLIGENT PLAYER:
